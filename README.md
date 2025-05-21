@@ -8,9 +8,10 @@ This is a simple calculator built using Java Swing. It supports basic operations
 ```bash
 git clone https://github.com/your-username/Java-GUI-Calculator.git
 cd Java-GUI-Calculator
+```
 
-**### 2. Compile and Run**
+### 2. Compile and Run
 ```bash
 javac Calculator.java
 java Calculator
-
+```
