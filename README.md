@@ -27,3 +27,9 @@ java Calculator
 ## 🛠 Built With
     -Java
     -Swing (Java GUI)
+
+## 🔧 Run the Calculator
+1. Make sure Java is installed
+2. [Download Calculator.jar](./Calculator.jar)
+3. Double-click it to open!
+
